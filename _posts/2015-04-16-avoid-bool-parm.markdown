@@ -30,7 +30,7 @@ public void LoadData() {
 {% endhighlight %}
 
 
-But isn't reseting a data schema something different than reseting data? Why is this even in the same method? I find this even clearer:
+But isn't reseting a data schema something different than resetting data? Why is this even in the same method? I find this even clearer:
 
 {% highlight csharp %}
 public void LoadData() {
